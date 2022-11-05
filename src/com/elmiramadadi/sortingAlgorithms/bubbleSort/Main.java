@@ -1,4 +1,4 @@
-package com.elmiramadadi;
+package com.elmiramadadi.sortingAlgorithms.bubbleSort;
 
 import com.elmiramadadi.sortingAlgorithms.bubbleSort.BubbleSort;
 
